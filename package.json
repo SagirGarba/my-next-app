@@ -21,8 +21,6 @@
     "@types/react-dom": "18.3.1",
     "autoprefixer": "10.4.20",
     "bcrypt": "^5.1.1",
-    "eslint": "^9.15.0",
-    "eslint-config-next": "15.0.3",
     "fast-sort": "^3.4.1",
     "lodash": "^4.17.21",
     "next": "^14.2.18",
@@ -43,6 +41,8 @@
     "@types/lodash": "^4.17.13",
     "daisyui": "^4.12.14",
     "encoding": "^0.1.13",
+    "eslint": "^9.15.0",
+    "eslint-config-next": "^15.0.3",
     "preview-email": "^3.1.0"
   }
 }
